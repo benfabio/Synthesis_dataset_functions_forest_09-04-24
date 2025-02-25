@@ -6,7 +6,7 @@ This project is licensed under the terms of the Creative Commons Attribution 4.0
 
 # Versions
 
-- February 2025: The first version of the synthesis forest functions dataset was finalized by Fabio Benedetti, Bruno X. Pinho and Marc Beringer. Its upload on BExIS is ongoing (25/02/25)
+- February 2025: The first version of the synthesis forest functions dataset was finalized by Fabio Benedetti, Bruno X. Pinho and Marc Beringer. Its upload on BExIS is ongoing (25/02/25) - dataset #31540
 
 # Scripts
 
