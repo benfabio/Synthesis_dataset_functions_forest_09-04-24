@@ -1,4 +1,4 @@
-Released at Zenodo : NOT YET RELEASED
+Released at Zenodo: TO DO
 
 ### License
 
@@ -6,7 +6,7 @@ This project is licensed under the terms of the Creative Commons Attribution 4.0
 
 # Versions
 
-- August 2023: Currently final decisions are being made on what to include in the synthesis forest functions dataset.
+- February 2025: The first version of the synthesis forest functions dataset was finalized by Fabio Benedetti, Bruno X. Pinho and Marc Beringer. Its upload on BExIS is ongoing (25/02/25)
 
 # Scripts
 
